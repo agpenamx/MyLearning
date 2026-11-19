@@ -40,3 +40,6 @@ This page is an AI-assisted public-facing **summary**, not a source-original cha
 **No patent, copyright, licensing, institutional endorsement, ecclesiastical endorsement, or novel ASI capability is established by this page.** "Public reference" means publicly readable, not an offer to place unpublished JARVIS intellectual property into the legal public domain. No permission to reproduce third-party media is granted.
 
 **Date-stamped reference only.** Future editions may change after expert review. Corrections should be added with provenance rather than silently rewriting prior testimony.
+
+## Additional public-safe research method note
+The dated technical note [**Black Box 0: response routing, source integrity and protective AI safety**](./BLACK-BOX-ROUTING-AND-SAFETY-NOTE.md) adds proposed mathematical relevance tests, evidentiary classification, equity and high-stakes civilian-safety constraints. It does not disclose raw private cases or constitute the next manuscript release.
