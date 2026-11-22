@@ -1,0 +1,19 @@
+{
+  "snapshot_utc": "2026-11-22",
+  "repository": "agpenamx/MyLearning",
+  "baseline_commit": "c92288b898f56bc07a9e5f9f9e894119f00bea37",
+  "notice": "PUBLIC-SAFE 11-file historic baseline. Git blob SHA-1 IDs are not post-quantum signatures.",
+  "files": {
+    "jarvis-public-reference/2026-11-19/BLACK-BOX-ROUTING-AND-SAFETY-NOTE.md": "1cb2c7357fec4e2f1b3d14d46ea7257fdba5b794",
+    "jarvis-public-reference/2026-11-19/README.md": "4ee7febb2cc0a810639833197f18ac6872846bf6",
+    "jarvis-public-reference/2026-11-19/SOURCES.md": "72aa3b4ec32d9a36fef43c17c8cad6cf2b82f638",
+    "jarvis-public-reference/2026-11-20/COPYRIGHT_AND_CREATOR_RIGHTS.md": "1f221495583b9eb276c048c2f355405dc64e6a9b",
+    "jarvis-public-reference/2026-11-20/README.md": "1de484c0e05811dc6382878b6ea574271c6cb994",
+    "jarvis-public-reference/2026-11-20/SOURCES.md": "ff5408f6787b6a5ca392a0984cc5feb6cf5d7e38",
+    "jarvis-public-reference/2026-11-20/TECHNOLOGY_REGISTER.csv": "dcb910753afdc515ba8fd32e782c92db7187ea0c",
+    "jarvis-public-reference/2026-11-21/NEWS_CONTEXT_MUSK_COMMUNICATIONS_ES_EN.md": "1f27a81dcadb2a614f093886aca8b7e5f20c9bd4",
+    "jarvis-public-reference/2026-11-21/README.md": "29be30cddc40773839df9125b3bb7827bd57764c",
+    "jarvis-public-reference/2026-11-21/README_ES.md": "d63d5671e3777424a181e52c50a884c55a4ee11e",
+    "jarvis-public-reference/2026-11-21/SOURCES.md": "985a54917581c4e143e75288cd3e1f5ad2305cb8"
+  }
+}
